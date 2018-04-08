@@ -2,6 +2,8 @@
 
 '''
 python3 menu options helper
+Author: GaDayas (https://github.com/GaDayas)
+Version: 0.1
 '''
 import os
 import time
