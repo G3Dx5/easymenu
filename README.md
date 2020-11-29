@@ -5,4 +5,4 @@ To Do:
 
 Fix routine if user enters a letter as opposed to an integer.     
 
-Author: GaDayas (2018)
+Author: G3Dx5 (2018)
